@@ -33,7 +33,6 @@ https://x16bmuaisl.execute-api.us-east-1.amazonaws.com/dev/mutant
 ````
 Nota: si pide authorization el secret key es:
 ````
-SECRET KEY: AKIAWXF5DIATBMKMGIPH
-SECRET ACCESS KEY: AKIAWXF5DIATBMKMGIPH,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
+Pedir a creador cuando vayan a hacer la prueba
 ````
 
